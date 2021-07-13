@@ -1,0 +1,10 @@
+{
+  "name": "betamindy-music",
+  "displayName": "BetaMindy Music",
+  "author": "[royal]sk7725[]",
+  "description": "BetaMindy music assets. Does nothing on its own!",
+  "version": "1.0",
+  "minGameVersion": "123",
+  "dependencies": [],
+  "hidden": true
+}
